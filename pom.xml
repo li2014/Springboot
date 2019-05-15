@@ -13,6 +13,23 @@
 
 	<modules>
 		<module>SpringBoot-Quartz</module>
+        <module>helloword</module>
+        <module>springboot-editor.md</module>
+        <module>springboot-filter-listener-interceptor</module>
+        <module>SpringBoot-Google-Check</module>
+        <module>SpringBoot-i18n</module>
+        <module>SpringBoot-JWT</module>
+        <module>SpringBoot-limit</module>
+        <module>springboot-log</module>
+        <module>springboot-mail</module>
+        <module>springboot-mongodb</module>
+        <module>springboot-mq</module>
+        <module>Springboot-multi-source</module>
+        <module>springboot-mybatis-annotation</module>
+        <module>springboot-mybatis-config</module>
+        <module>springboot-mybatisplus</module>
+        <module>springboot-redis</module>
+        <module>springboot-web</module>
 	</modules>
 
   <build>
